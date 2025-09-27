@@ -5,5 +5,6 @@ scikit-learn>=1.2.0
 pytest>=7.0.0
 requests>=2.28.0
 httpx>=0.23.0
+imbalanced-learn>=0.10.0
 
 # The line below is to prevent uvicorn from being flagged as unused in main.py
